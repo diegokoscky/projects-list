@@ -1,7 +1,7 @@
 # projects-list
 Minha lista de projetos
 
-# Lista de projetos criados / cooperados [![Build Status](www.diegokoscky.com.br)](www.diegokoscky.com.br)
+# Lista de projetos criados / cooperados
 
 Uma lista de projetos pessoais/profissionais criados/cooperados. Since 2013.
 
