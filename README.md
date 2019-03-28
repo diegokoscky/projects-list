@@ -20,4 +20,5 @@ Plenus Coach | https://www.plenuscoach.com.br/
 Minha Dieta com Saúde | www.minhadietacomsaude.com.br/
 Injetec | www.injetec.com.br/
 Emprestimofacil.com | https://emprestimofacil.com/
+Blog da Emprestimofacil.com | https://emprestimofacil.com/blog/
 uConecte | https://uconecte.me/
