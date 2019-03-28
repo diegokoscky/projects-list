@@ -3,9 +3,9 @@ Minha lista de projetos
 
 # Lista de projetos criados / cooperados
 
-Uma lista de projetos pessoais/profissionais criados/cooperados. Since 2013.
+Uma lista de projetos pessoais/profissionais criados/cooperados.
 
-## Projetos desde 2012:
+## Projetos:
 
 Nome | Website
 ------------ | -------
