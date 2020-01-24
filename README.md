@@ -22,3 +22,4 @@ Injetec | www.injetec.com.br/
 Emprestimofacil.com | https://emprestimofacil.com/
 Blog da Emprestimofacil.com | https://emprestimofacil.com/blog/
 uConecte | https://uconecte.me/
+Consulta Benefício INSS | https://consultabeneficioinss.com.br/
